@@ -18,7 +18,7 @@
 const ganesh = {
     location: "India 🇮🇳",
     education: "Bachelor of Computer Applications (BCA)",
-    currentFocus: ["TypeScript", "React", "AI Integration", "RAG Systems"],
+    currentFocus: ["TypeScript", "React", "AI Integration"],
     passions: ["Building AI Tools", "Web Development", "Content Creation"],
     funFact: "I debug with console.log and I love building creative projects! 😄"
 };
