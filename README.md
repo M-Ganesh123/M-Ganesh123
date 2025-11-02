@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mantha Ganesh
+# 👋 Hi, I'm Ganesh
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Web+Enthusiast;TypeScript+%26+React" alt="Typing SVG" />
 
