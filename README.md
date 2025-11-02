@@ -125,6 +125,14 @@ Email or LinkedIn messages are the best way to reach me.
 When I’m not coding, I love going to the gym 💪, creating music lyric videos 🎶, and working on creative tech ideas.
 
 ---
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
