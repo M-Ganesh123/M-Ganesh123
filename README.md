@@ -28,7 +28,7 @@ const ganesh = {
 - 💻 Full-stack developer with focus on **TypeScript**, **React**, and **AI integration**  
 - 🎯 Goal: Build production-ready AI-enabled web applications
 
----
+----
 
 ## 🛠️ Tech Arsenal
 
