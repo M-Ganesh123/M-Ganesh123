@@ -4,6 +4,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3F8EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Web+Enthusiast;TypeScript+%26+React" alt="Typing SVG" />
 
+# ■ My GitHub Activity Game
+
+<p align="center">
+  <img src="assets/space-shooter.gif" />
+</p>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=M-Ganesh123&color=blueviolet&style=for-the-badge)](https://github.com/M-Ganesh123)
 [![GitHub followers](https://img.shields.io/github/followers/M-Ganesh123?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-Ganesh123?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/M-Ganesh123?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-Ganesh123?tab=repositories)
